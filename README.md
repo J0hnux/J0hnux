@@ -6,7 +6,7 @@ I am a Front-End developer specialized in ReactJS.
 
 👉   🌍 I'm from Laguna, Philippines<br />
 👉   🖥️ Check out my portfolio via this link <a target="_blank" rel="noreferrer" href='https://jcdolientedev.vercel.app/'>Portfolio</a><br />
-👉   🧠 Currently learning different frameworks and libraries to level-up into a fullstack developer soon.<br />
+👉   🧠 Currently learning Solidity and ThreeJS.<br />
 
 ### Skills and Technologies
 
