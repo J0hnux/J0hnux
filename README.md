@@ -11,9 +11,10 @@
 ### Interests and Hobbies
 <a href="https://www.unrealengine.com/en-US/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Unreal_Engine_Logo.svg" width="64" height="64" alt="unrealengine4" /></a>&nbsp;&nbsp; <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://images.contentstack.io/v3/assets/blt08c1239a7bff8ff5/bltdff1a2920dd347a5/63f5068a97790d11728d0a6d/U_Logo_Small_black.svg" width="128" height="64" alt="Unity3d" /></a> 
   
-### Social Media Account(s)
+### Social Media Accounts
 
-<p align="left"> <a href="https://www.linkedin.com/in/jclark007/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/jclark007/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;  <a href="https://www.instagram.com/j0hnux" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-512/instagram-1868978-1583142.png" width="32" height="32" /></a>
+</p>
 
 ### Portfolio
 <a target="_blank" href="https://jcdolientedev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
