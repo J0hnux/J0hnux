@@ -1,7 +1,7 @@
 <img src="github-banner.jpg" alt="personal banner" />
 
 👉   🌍 I'm from Laguna, Philippines<br />
-👉   🖥️ Check out my portfolio via this link <a target="_blank" rel="noreferrer" href='https://jcdolientedev.vercel.app/'>Portfolio</a><br />
+👉   🖥️ Check out my <a target="_blank" href="https://jcdolientedev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a><br />
 👉   🧠 Currently learning Solidity and ThreeJS.<br />
 
 ### Skills and Technologies
