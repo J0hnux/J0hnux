@@ -1,8 +1,7 @@
 <img src="github-banner.jpg" alt="personal banner" />
 
 👉   🌍 I'm from Laguna, Philippines<br />
-👉   🖥️ Check out my: <br /><a target="_blank" href="https://jcdolientedev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a><br />
-👉   🧠 Currently learning Solidity and ThreeJS.<br />
+👉   🧠 I'm a self-taught Front-end Web Developer
 
 ### Skills and Technologies
 
@@ -15,3 +14,6 @@
 ### Social Media Account(s)
 
 <p align="left"> <a href="https://www.linkedin.com/in/jclark007/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
+
+### Portfolio
+<a target="_blank" href="https://jcdolientedev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
