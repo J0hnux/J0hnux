@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a Front-End developer specialized in ReactJS.
 --------------------------
 
-👉   🌍  I'm from Laguna, Philippines<br />
-👉   🖥️  Check out my portfolio via this link <a target="_blank" rel="noreferrer" href='https://jcdolientedev.vercel.app/'>Portfolio</a><br />
-👉   🧠  Currently learning different frameworks and libraries to level-up into a fullstack developer soon.<br />
+👉   🌍 I'm from Laguna, Philippines<br />
+👉   🖥️ Check out my portfolio via this link <a target="_blank" rel="noreferrer" href='https://jcdolientedev.vercel.app/'>Portfolio</a><br />
+👉   🧠 Currently learning different frameworks and libraries to level-up into a fullstack developer soon.<br />
 
 ### Skills and Technologies
 
