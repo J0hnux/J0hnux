@@ -1,7 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is John Clark Doliente.
 --------------------------
 <img src="github-banner.jpg" alt="personal banner" />
---------------------------
 
 👉   🌍 I'm from Laguna, Philippines<br />
 👉   🖥️ Check out my portfolio via this link <a target="_blank" rel="noreferrer" href='https://jcdolientedev.vercel.app/'>Portfolio</a><br />
