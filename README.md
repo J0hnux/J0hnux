@@ -1,7 +1,7 @@
 <img src="github-banner.jpg" alt="personal banner" />
 
 👉   🌍 I'm from Laguna, Philippines<br />
-👉   🧠 I'm a self-taught Front-end Web Developer
+👉   🧠 I'm a self-taught Front-end React Developer
 
 ### Skills and Technologies
 
